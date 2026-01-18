@@ -22,6 +22,6 @@ I am a final-year Computer Science student passionate about building scalable we
 
 ### 📫 Connect with Me
 <p align="left">
-<a href="https://linkedin.com/in/kishordwngn" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="kishordwngn" /></a>
+<a href="https://www.linkedin.com/in/kishordewangan" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="kishordwngn" /></a>
 <a href="mailto:Kdewangan807@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Kdewangan807" /></a>
 </p>
