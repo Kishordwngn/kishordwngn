@@ -1,41 +1,27 @@
-## Building in public
+### Hi there, I'm Kishor! 👋
 
-<div align="center">
+I am a final-year Computer Science student passionate about building scalable web systems and solving backend challenges. I combine my technical logic with behavioral psychology (Mentalism) to create user-centric solutions.
 
-# kishordwngn
+- 🔭 I’m currently working on a **Real-Time Collaborative Code IDE** using WebSockets.
+- 🎓 Studying at **SSTC, Bhilai** (Batch of 2026).
+- 🧠 Fun Fact: I am a **Mentalist**! I read code and minds (sometimes). 🃏
 
-> Technical founder
+---
 
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/hero?username=kishordwngn&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F336647330%3Fv%3D4" alt="kishordwngn hero visual" />
+### 🛠️ Languages & Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-</div>
+---
 
-## The point of view
-
-> Building useful things and learning in public.
-
-- 👥 **0** followers · **0** following
-
-*Small, useful work over vague claims.*
-
-## Products and proof
-
-Public projects are being indexed.
-
-## Momentum
-
-<table>
-<tr><td align="center"><b>0</b><br/><sub>repos</sub></td><td align="center"><b>0</b><br/><sub>stars</sub></td><td align="center"><b>1</b><br/><sub>contributions</sub></td></tr>
-</table>
-
-## Start a conversation
-
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/social?username=kishordwngn&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F336647330%3Fv%3D4" alt="kishordwngn social visual" />
+### 📫 Connect with Me
+<p align="left">
+<a href="https://www.linkedin.com/in/kishordewangan" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="kishordwngn" /></a>
+<a href="mailto:Kdewangan807@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Kdewangan807" /></a>
 </p>
-
-<a href="https://github.com/kishordwngn">GitHub</a>
-
-<p align="center"><sub>kishordwngn · Founder profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
