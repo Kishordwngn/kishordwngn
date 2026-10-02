@@ -1,27 +1,48 @@
-### Hi there, I'm Kishor! 👋
+<div align="center">
 
-I am a final-year Computer Science student passionate about building scalable web systems and solving backend challenges. I combine my technical logic with behavioral psychology (Mentalism) to create user-centric solutions.
+  <!-- Theme-aware Header Banner -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./light.svg">
+    <img alt="Kishor Dewangan - Professional Terminal Profile" src="./dark.svg" width="100%">
+  </picture>
 
-- 🔭 I’m currently working on a **Real-Time Collaborative Code IDE** using WebSockets.
-- 🎓 Studying at **SSTC, Bhilai** (Batch of 2026).
-- 🧠 Fun Fact: I am a **Mentalist**! I read code and minds (sometimes). 🃏
+  <br />
+
+  <!-- Social & Tech Badges -->
+  <p align="center">
+    <a href="https://github.com/Kishordwngn">
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+    <a href="https://www.linkedin.com/in/kishordwngn">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://github.com/Kishordwngn/Linkhub">
+      <img src="https://img.shields.io/badge/Linkhub-000000?style=for-the-badge&logo=linktree&logoColor=white" alt="Linkhub" />
+    </a>
+  </p>
+
+</div>
 
 ---
 
-### 🛠️ Languages & Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
+### 🚀 About Me
+
+I am a final-year Computer Science & Engineering student at **Shri Shankaracharya Technical Campus (SSTC), Bhilai** ('26 Batch). 
+
+Driven by an enterprise engineering mindset, I focus on building high-performance, real-time distributed systems, full-stack web applications, and security tooling. My engineering philosophy combines technical logic with **behavioral psychology & mentalism**, enabling me to design intuitive, user-centric systems.
+
+* 🎓 **Education:** B.Tech in Computer Science & Engineering @ SSTC, Bhilai (2022 - 2026)
+* ⚡ **Core Focus:** Real-time Distributed Systems, Backend Architecture, Modern Full-Stack Engineering
+* 🔒 **Security Interest:** Cybersecurity & LSB Steganography algorithms
+* 🧠 **Fun Fact:** Mentalist & Psychology Enthusiast 🃏
 
 ---
 
-### 📫 Connect with Me
-<p align="left">
-<a href="https://www.linkedin.com/in/kishordewangan" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="kishordwngn" /></a>
-<a href="mailto:Kdewangan807@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Kdewangan807" /></a>
-</p>
+### 🛠️ Tech Stack & Tooling
+
+```text
+  Languages       :: Python, JavaScript, HTML5, CSS3
+  Backend         :: Flask, REST APIs, WebSockets, Socket.io
+  Security/Algos  :: Image Steganography, LSB Algorithm
+  Developer Tools :: Git, GitHub, VS Code, Linux/Bash
