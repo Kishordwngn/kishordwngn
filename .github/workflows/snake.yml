@@ -2,7 +2,7 @@ name: Generate Snake
 
 on:
   schedule:
-cron: "0 */12 * * *"   # refresh twice a day
+cron: "0*/12 * * *"   # refresh twice a day
   workflow_dispatch:          # lets you run it manually
   push:
     branches:
